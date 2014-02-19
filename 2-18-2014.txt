@@ -1,5 +1,3 @@
-Test change.
-
 Git: a model of versioning syncronization
 GitHub: a centralized server running Git
 	Also has a wiki feature
