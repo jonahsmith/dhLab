@@ -1,6 +1,7 @@
-DIGITAL HUMANITIES LAB--FEBRUARY 11, 2014
-COMMAND LINE
+#DIGITAL HUMANITIES LAB--FEBRUARY 11, 2014
+#COMMAND LINE
 
+##Basic Commands
 pwd			present working directory
 ls			list (the entries in the pwd)
 cd [directory]		change directory
@@ -17,7 +18,7 @@ mv [file] [new name]	rename
 mv [file] [directory]	move a file (NOT duplicate)
 history
 
-ADVANCED COMMANDS
+##Advanced Commands
 pushd			saves the directory you specify 		
 popd			pops to the directory you specified in pushd
 ctrl-r			search based on history (great for SSH)
