@@ -1,7 +1,8 @@
-#DIGITAL HUMANITIES LAB 2.18.2014
-#GIT BASICS
+##Digital Humanities Lab, 2.18.2014
+#Git Basics
 
 Git: a model of versioning syncronization
+
 GitHub: a centralized server running Git. Also has a wiki feature and a bug tracker
 
 ##The General Workflow
@@ -17,7 +18,7 @@ git clone	| clones repository into new directory
 git pull 	| gets the timeline from the cloud
 
 ##Some Terminology
-"He advanced the head" changed the file, staged it, committed it, and pushed it to common ledger
+"He advanced the head": changed the file, staged it, committed it, and pushed it to common ledger
 
 ##Initializing and connecting to GitHub
 ```

@@ -1,4 +1,4 @@
-#Digital Humanities Lab, 2.11. 2014
+##Digital Humanities Lab, 2.11. 2014
 #Command Line Basics
 
 ##Basic Commands
